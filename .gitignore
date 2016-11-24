@@ -1,0 +1,8 @@
+*.iml
+platform/android/.gradle
+platform/android/.idea/workspace.xml
+platform/android/.idea/libraries
+platform/android/build
+platform/android/captures
+platform/android/local.properties
+*.externalNativeBuild
